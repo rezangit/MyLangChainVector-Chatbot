@@ -1,0 +1,15 @@
+# Environment Files
+.env
+.env.local
+
+# Python-specific files
+*.pyc
+__pycache__/
+.pytest_cache/
+
+# Virtual Environment
+env-hf/
+venv/
+
+# Other temporary files or directories
+.DS_Store

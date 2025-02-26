@@ -1,0 +1,7 @@
+transformers
+langchain
+langchain-huggingface
+pinecone
+python-dotenv
+langchain-openai
+langchain-pinecone
